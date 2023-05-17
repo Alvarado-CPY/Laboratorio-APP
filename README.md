@@ -9,4 +9,6 @@ Este proyecto utiliza unicamente python, con alguna librerias extras ademas de l
 
 Y el modulo principal es el "userlogin.py"
 
+El usuario principal y contraseña son: Admin, 1234
+
 He crecido mucho desde la creación de este proyecto, espero que le sea de provecho al que sea que esté leyendo esto. Happy coding.
